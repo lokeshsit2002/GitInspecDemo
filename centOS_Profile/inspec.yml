@@ -1,0 +1,10 @@
+name: centOS_Profile
+title: InSpec CentOS baseline Profile
+maintainer: QA TEAM
+copyright: QA TEAM
+copyright_email: 11.lokesh@example.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile for CentOS
+version: 0.1.0
+supports:
+  platform: os
